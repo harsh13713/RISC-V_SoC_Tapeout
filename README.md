@@ -1,9 +1,10 @@
 # RISC-V_SoC_Tapeout
 
 This repository contains work done during the course of VSD RISC-V SoC Tapeout Program.  
-*Updated every week.
 
-## Contents
+
+## Contents  
+*Updated every week.
 - [Week0](./Week0/README.md) - Tools Installation
 
 ## Acknowledgement
